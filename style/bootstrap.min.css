@@ -812,7 +812,7 @@ a.btn.disabled, fieldset[disabled] a.btn {pointer-events: none;}
 .btn-link:focus, .btn-link:hover {color: #23527c;text-decoration: underline;background-color: transparent;}
 .btn-link[disabled]:focus, .btn-link[disabled]:hover, fieldset[disabled] .btn-link:focus, fieldset[disabled] .btn-link:hover {color: #777;text-decoration: none;}
 .btn-group-lg>.btn, .btn-lg {padding: 10px 16px;font-size: 18px;line-height: 1.3333333;border-radius: 6px;}
-.btn-group-sm>.btn, .btn-sm {padding: 5px 10px;font-size: 12px;line-height: 1.5;border-radius: 3px;}
+.btn-group-sm>.btn, .btn-sm {padding: 5px 10px;font-size: 15px;line-height: 1.5;border-radius: 3px;}
 .btn-group-xs>.btn, .btn-xs {padding: 1px 5px;font-size: 12px;line-height: 1.5;border-radius: 3px;}
 .btn-block {display: block;width: 100%;}
 .btn-block+.btn-block {margin-top: 5px;}
